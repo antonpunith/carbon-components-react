@@ -35,7 +35,8 @@
   "files": [
     "lib/**/*",
     "es/**/*",
-    "umd/**/*"
+    "umd/**/*",
+    "sass/**/*"
   ],
   "contributors": [
     {
